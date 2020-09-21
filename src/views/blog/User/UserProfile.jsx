@@ -91,9 +91,9 @@ class UserProfile extends React.Component{
                                     <div className="row" style={{"marginLeft": "0px"}}>
                                     <div className="col-12">
                                 <h4>Social:  </h4>
-                                       <p><a><i className="fa fa-facebook-square" aria-hidden="true"></i> https://www.facebook.com/ericnelson</a></p>
-                                       <p><a><i className="fa fa-twitter-square" aria-hidden="true"></i> https://www.twitter.com/ericnelson</a></p>
-                                       <p><a><i className="fa fa-linkedin-square" aria-hidden="true"></i> https://www.linkedin.com/ericnelson</a></p>
+                                       <p><a href="/"><i className="fa fa-facebook-square" aria-hidden="true"></i> https://www.facebook.com/ericnelson</a></p>
+                                       <p><a href="/"><i className="fa fa-twitter-square" aria-hidden="true"></i> https://www.twitter.com/ericnelson</a></p>
+                                       <p><a href="/"><i className="fa fa-linkedin-square" aria-hidden="true"></i> https://www.linkedin.com/ericnelson</a></p>
 
                                     </div>
                                     </div>

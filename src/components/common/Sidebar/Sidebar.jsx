@@ -11,8 +11,8 @@ import PerfectScrollbar from 'perfect-scrollbar';
 import logofull from "assets/img/logo-full.png";
 import logomini from "assets/img/logo-mini.png";
 import logofulldark from "assets/img/logo-full-dark.png";
-import logo from "assets/img/logo-full-dark-brill.png";
-import logominidark from "assets/img/logo-mini-dark.png";
+// import logo from "assets/img/logo-full-dark-brill.png";
+// import logominidark from "assets/img/logo-mini-dark.png";
 
 var ps;
 var currentmenu = "notset";

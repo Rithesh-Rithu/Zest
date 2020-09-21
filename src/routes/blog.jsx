@@ -6,12 +6,12 @@ import SingleBlog from 'views/blog/Blog/SingleBlog.jsx';
 import AddBlog from 'views/blog/Blog/AddBlog.jsx';
 import EditBlog from 'views/blog/Blog/EditBlog.jsx';
 
-import BlogSearch from 'views/blog/Blog/Search.jsx';
+// import BlogSearch from 'views/blog/Blog/Search.jsx';
 
 import Pages from 'views/blog/Page/Pages.jsx';
-import SinglePage from 'views/blog/Page/SinglePage.jsx';
+// import SinglePage from 'views/blog/Page/SinglePage.jsx';
 import AddPage from 'views/blog/Page/AddPage.jsx';
-import EditPage from 'views/blog/Page/EditPage.jsx';
+// import EditPage from 'views/blog/Page/EditPage.jsx';
 
 import User from 'views/blog/User/User.jsx';
 import AddUser from 'views/blog/User/AddUser.jsx';
@@ -22,21 +22,21 @@ import Media from 'views/blog/Media/Media.jsx';
 import UploadMedia from 'views/blog/Media/UploadMedia.jsx';
 import EditMedia from 'views/blog/Media/EditMedia.jsx';
 
-import BlogMailinbox from 'views/blog/Mail/Inbox.jsx';
-import BlogMailcompose from 'views/blog/Mail/Compose.jsx';
-import BlogMailview from 'views/blog/Mail/View.jsx';
+// import BlogMailinbox from 'views/blog/Mail/Inbox.jsx';
+// import BlogMailcompose from 'views/blog/Mail/Compose.jsx';
+// import BlogMailview from 'views/blog/Mail/View.jsx';
 
 import Tag from 'views/blog/Tag/Tag.jsx';
 import AddTag from 'views/blog/Tag/AddTag.jsx';
 import EditTag from 'views/blog/Tag/EditTag.jsx'; 
 
-import Category from 'views/blog/Category/Category.jsx';
-import AddCategory from 'views/blog/Category/AddCategory.jsx';
-import EditCategory from 'views/blog/Category/EditCategory.jsx';
+// import Category from 'views/blog/Category/Category.jsx';
+// import AddCategory from 'views/blog/Category/AddCategory.jsx';
+// import EditCategory from 'views/blog/Category/EditCategory.jsx';
 
-import BlogReportsSite from 'views/blog/Reports/ReportsSite.jsx'; 
-import BlogReportsVisitors from 'views/blog/Reports/ReportsVisitors.jsx'; 
-import BlogReportsSocial from 'views/blog/Reports/ReportsSocial.jsx'; 
+// import BlogReportsSite from 'views/blog/Reports/ReportsSite.jsx'; 
+// import BlogReportsVisitors from 'views/blog/Reports/ReportsVisitors.jsx'; 
+// import BlogReportsSocial from 'views/blog/Reports/ReportsSocial.jsx'; 
 
 import Podcasts from 'views/blog/Reports/Podcasts.jsx';
 import AddPodcasts from 'views/blog/Reports/AddPodcasts.jsx';

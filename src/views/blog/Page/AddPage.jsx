@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    Row, Col, Label, Input, textarea,
+    Row, Col, Label
 } from 'reactstrap';
 
 //import InputMask from 'react-input-mask';

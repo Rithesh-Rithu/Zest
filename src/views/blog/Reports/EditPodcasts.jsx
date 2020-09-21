@@ -3,7 +3,7 @@ import {
    
 } from 'components';
 
-import Dropzone from 'react-dropzone'
+// import Dropzone from 'react-dropzone'
 
 import {
     Row, Col, Label, Input, textarea,
