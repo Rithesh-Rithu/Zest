@@ -42,7 +42,8 @@ import Podcasts from 'views/blog/Reports/Podcasts.jsx';
 import AddPodcasts from 'views/blog/Reports/AddPodcasts.jsx';
 import EditPodcasts from 'views/blog/Reports/EditPodcasts.jsx';
 
-var BASEDIR = process.env.REACT_APP_BASEDIR;
+// var BASEDIR = process.env.REACT_APP_BASEDIR;
+var BASEDIR = "/admin";
 
 var dashRoutes = [  
 

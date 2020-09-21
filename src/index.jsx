@@ -21,7 +21,7 @@ const hist = createBrowserHistory();
 
 ReactDOM.render(
     
-    <Router history={hist} basename={process.env.REACT_APP_BASEDIR}>
+    <Router history={hist} basename="/admin">
         <Switch>
             {
                 indexRoutes.map((prop,key) => {

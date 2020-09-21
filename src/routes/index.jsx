@@ -24,7 +24,8 @@ import Layout13 from 'layouts/PageLayouts/Layout13.jsx';
 import Layout14 from 'layouts/PageLayouts/Layout14.jsx';
 import Layout15 from 'layouts/PageLayouts/Layout15.jsx';
 
-var BASEDIR = process.env.REACT_APP_BASEDIR;
+// var BASEDIR = process.env.REACT_APP_BASEDIR;
+var BASEDIR = "/admin";
  
 var indexRoutes = [
     { path: BASEDIR+"/login", name: "Login", component: LoginPage },
