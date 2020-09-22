@@ -1,7 +1,9 @@
 // ##############################
 // // // pages
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
  
 const podcasts = [
     {image: IMGDIR+'/images/blog/pages/page-8.jpg',  date: '26th Nov 2018', author: 'Harry Thomson', description: 'The modern blog evolved from the online diary where people would keep a running account of the events in their personal lives. Most such writers called themselves diarists, journalists, or journalers.',title:'Rock and Roll',   category:'Youtube', video:'', url:'https://www.google.com/'},

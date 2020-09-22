@@ -1,7 +1,8 @@
 // ##############################
 // // // bloguser
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
 
 const bloguser = [
     {avatar: IMGDIR+"/images/blog/users/user-1.jpg", name: "Colin Taylor", email:'colin@gmail.com', age: "35",role:'admin', contact: '+91 9898989898'},

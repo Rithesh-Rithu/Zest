@@ -14,7 +14,9 @@ import dashRoutes from 'routes/blog.jsx';
 import { messages } from 'variables/topbar.jsx';
 import { notifications } from 'variables/topbar.jsx';
 
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
 class Header extends React.Component{
     constructor(props) {
         super(props);

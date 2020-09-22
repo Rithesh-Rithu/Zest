@@ -1,8 +1,9 @@
 // ##############################
 // // // pages
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
- 
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
 const pages = [
     {image: IMGDIR+'/images/blog/pages/page-8.jpg',  date: '26th Nov 2018', author: 'Harry Thomson', comments: '5', description: 'The modern blog evolved from the online diary where people would keep a running account of the events in their personal lives. Most such writers called themselves diarists, journalists, or journalers.', activity:'liked', what:'video'},
     {image: IMGDIR+'/images/blog/pages/page-10.jpg', date: '12th Nov 2018', author: 'Isaac Sharp', comments: '5', description: 'Many pages provide commentary on a particular subject or topic, ranging from politics to sports. Others function as more personal online diaries, and others function more as online brand advertising of a particular individual or company.', activity:'liked', what:'post'},

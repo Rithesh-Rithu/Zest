@@ -2,7 +2,9 @@
 // // // top bar dropdown data
 // #############################
 
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
 const messages = [
     {avatar: IMGDIR+"/images/profile/avatar-1.jpg", name: "John Doug", time: "15 mins ago", status: "available", type: "read", msg: 'Sometimes it takes a lifetime to win a battle!'},
     {avatar: IMGDIR+"/images/profile/avatar-2.jpg", name: "Ben Shaw", time: "35 mins ago", status: "busy", type: "read", msg: 'We are having a get together today. See you soon'},

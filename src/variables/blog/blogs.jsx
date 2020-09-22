@@ -1,7 +1,8 @@
 // ##############################
 // // // blogs
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
 
 const blogs = [
     {image: IMGDIR+'/images/blog/blogs/blog-1.jpg', title: 'Making your blog look cool and professional', date: '26th Nov 2018', author: 'Dan Welch', comments: '5', description: 'Another early blog was Wearable Wireless Webcam, an online shared diary of a person personal life combining text, digital video, and digital pictures transmitted live from a wearable computer and EyeTap device to a web site in 1994. '},

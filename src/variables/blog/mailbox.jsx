@@ -1,7 +1,8 @@
 // ##############################
 // // // mailbox
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
 
 const mailbox = [
     {avatar: IMGDIR+"/images/profile/avatar-1.jpg", name: "Michael Harris", time: "15 mins ago", tag: "Family", star: "1", msg: 'Sometimes it takes a lifetime to win a battle!'},

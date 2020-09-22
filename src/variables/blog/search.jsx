@@ -1,7 +1,9 @@
 // ##############################
 // // // search
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
 
 const search = [
     {image: IMGDIR+'/images/blog/blogs/blog-8.jpg', title: 'How to make a good website from a cms', date: '27th Nov 2018', author: 'Christian Walsh', comments: '5', description: 'This practice of semi-automated blogging with live video together with text was referred to as sousveillance, and such journals were also used as evidence in legal matters. Some early bloggers, such as The Misanthropic Bitch'},

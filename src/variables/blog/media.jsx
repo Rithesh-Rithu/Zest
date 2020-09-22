@@ -1,7 +1,8 @@
 // ##############################
 // // // media
 // #############################
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
 
 const media = [
     {avatar: IMGDIR+"/images/blog/media/media-1.jpg", title: "Sunny morning", by: "Mak Gill", description:'Done right, YouTube descriptions can boost SEO, subscriptions, view counts, and watch time. ', category:'Youtube', video:'', url:'https://www.google.com/',date:'21-08-2020'},

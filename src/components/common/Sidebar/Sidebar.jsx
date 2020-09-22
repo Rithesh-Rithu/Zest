@@ -17,7 +17,9 @@ import logofulldark from "assets/img/logo-full-dark.png";
 var ps;
 var currentmenu = "notset";
 
-var IMGDIR = process.env.REACT_APP_IMGDIR;
+// var IMGDIR = process.env.REACT_APP_IMGDIR;
+var IMGDIR = '';
+
 
 class Sidebar extends React.Component{
     constructor(props){
